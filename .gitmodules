@@ -1,0 +1,3 @@
+[submodule "symfony-api"]
+	path = symfony-api
+	url = https://github.com/soufian250/symfony-api.git
